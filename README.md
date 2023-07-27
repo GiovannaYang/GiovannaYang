@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey there 👋, you found me.
 
 [![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://yqr533.github.io/blog/)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://yqr533.github.io/blog/)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:yqr533@gmail.com)
 
 I'm ~~a wizard lurking in the Muggle world~~ trying to become a qualified programmer and reseacher.
