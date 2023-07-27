@@ -8,7 +8,7 @@ I'm ~~a wizard lurking in the Muggle world~~ trying to become a qualified progra
 - 🧐 I'm learning various undergraduate courses in computer science
 - 🕹️ My portfolio/cv is still being improved...
 - 👾 I'm currently interested in Honkai:Star Rail and Genshin Impact
-- 🌭 My dream: `while(sleeping){GPA++;}`
+- 💯 My dream: `while(sleeping){GPA++;}`
 - 🔭 Still confused (◞‸◟ )
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
