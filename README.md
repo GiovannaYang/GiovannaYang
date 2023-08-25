@@ -1,6 +1,6 @@
 ### Hey there 👋, you found me.
 
-[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://yqr.netlify.app/)
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://qr-yang.top/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/93878345?spm_id_from=333.337.0.0)
 [![Email](https://img.shields.io/badge/Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:yqr533@gmail.com)
 
