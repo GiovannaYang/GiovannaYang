@@ -12,3 +12,6 @@ I'm ~~a wizard hiding in the Muggle world~~ trying to become a qualified program
 - 💯 My dream: `while(sleeping){GPA++;}`
 - 🔭 Still confused (◞‸◟ )
 
+My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=GiovannaYang&show_icons=true&hide_title=true&hide_border=true)](https://hiyqr.top)
