@@ -8,7 +8,7 @@ I'm ~~a wizard hiding in the Muggle world~~ trying to become a qualified program
 
 - 🧐 I'm learning various undergraduate courses in computer science
 - 🕹️ My portfolio/cv is still being improved...
-- 🎮 I'm currently interested in Honkai:Star Rail and Genshin Impact
+- 🎮 I'm currently interested in Animal Crossing: New Horizons
 - 💯 My dream: `while(sleeping){GPA++;}`
 - 🔭 Still confused (◞‸◟ )
 
